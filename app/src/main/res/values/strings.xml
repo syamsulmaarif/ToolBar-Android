@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToolBar</string>
+    <string name="my_title_main">My ToolBar</string>
+    <string name="my_subtitle_main">This is Subtitle</string>
+    <string name="item_setting">Settings</string>
+    <string name="item_profile">Profile</string>
+    <string name="profile_title">Profile</string>
+    <string name="settings_title">settings</string>
+    <string name="search">Search</string>
+</resources>
